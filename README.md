@@ -5,7 +5,9 @@
 
 # [Plum](http://hot-meal.github.io/plum/)
 
-**Classless CSS**
+Classless CSS
+
+[Demo](https://hot-meal.github.io/plum/)
 
 ## Introduction
 
