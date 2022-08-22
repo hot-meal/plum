@@ -1,0 +1,47 @@
+:root {
+  --br: 4px;
+  --xs-pad: 4px;
+  --sm-pad: 8px;
+  --md-pad: 16px;
+  --lg-pad: 20px;
+  --xlg-pad: 40px;
+
+  --sm-breakpoint: 400px;
+  --lg-breakpoint: 768px;
+
+  --primary-400: #3498DB;
+  --primary: #2471A3;
+  --primary-600: #1A5276;
+  --accent: #5D6D7E;
+  --red: #EC7063;
+  --red-600: #A93226;
+  --yellow: #F1C40F;
+  --grey: #F2F3F4;
+  --white: #fff;
+  --black: #000;
+
+  --text: rgba(0, 0, 0, 0.8);
+  --secondary: rgba(0, 0, 0, 0.5);
+  --disabled: rgba(0, 0, 0, 0.34);
+  --dividers: rgba(0, 0, 0, 0.10);
+
+  --link-color: var(--primary);
+  --link-hover-color: var(--primary-600);
+
+  --sans-serif: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+  --serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --monospace: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+  --font-family: var(--sans-serif);
+
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-h1: 40px;
+  --font-size-h2: 32px;
+  --font-size-h3: 28px;
+  --font-size-h4: 24px;
+  --font-size-h5: 20px;
+  --font-size-h6: 16px;
+  --line-height-base: 1.5;
+
+  --border: 1px solid var(--dividers);
+}
